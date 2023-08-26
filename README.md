@@ -1,7 +1,5 @@
 # Agent-Training-for-Breakout-Game
 
-This is my undergrad artificial intelligence course's final project.
-
 This project aimed to develop an artificial intelligence (AI) agent capable of playing the classic arcade game "Breakout" using deep reinforcement learning techniques. The objective was to train the agent to master complex control strategies, break all the bricks, and achieve a high score.
 
 To accomplish this, a deep Q-network (DQN) architecture was implemented with the stable-baselines3 Python library. The Gym Retro environment simulated the Atari 2600 version of Breakout (Breakout V5 of Gymnasium, a maintained fork of OpenAI’s Gym library). The agent received raw 84x84-pixel observations of the game screen and was trained to maximize cumulative rewards by breaking bricks while avoiding ball loss.
