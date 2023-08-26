@@ -9,5 +9,5 @@ Key techniques employed included experience replay, target networks, and epsilon
 After extensive training, the AI agent achieved a high average score, demonstrating proficiency in breaking bricks across multiple levels. However, it faced challenges with specific types of bricks positioned higher up. Further improvements, such as incorporating techniques like dueling DQN, hold potential for enhancing performance.
 
 <p align="center">
-  <img src="https://github.com/MelvinMo/AI_Course_Archive/blob/main/Final%20Project/breakout.gif" alt="GIF" />
+  <img src="https://github.com/MelvinMo/Agent-Training-for-Breakout-Game/blob/main/breakout.gif" alt="GIF" />
 </p>
